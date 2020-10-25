@@ -1,11 +1,13 @@
 ### Bruno Slamek 👋
 
-<!--
-**BrunoSlamek/BrunoSlamek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
 ### Contato 📭
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/bruno-slamek)
+
+
+<br />
 
 ### Linguagens e Ferramentas 🔨🔧
 
@@ -15,3 +17,19 @@
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
+<img align="left" alt="Plotly" width="26px" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" />
+
+
+<br />
+<br />
+
+### Projetos 📈
+
+<br />
+
+### Stats
+
+<img align="left" alt="Bruno Slamek Github Stats" src="https://github-readme-stats.vercel.app/api?username=brunoslamek&show_icons=true&hide_border=true" />
+
+<br />
+<br />
