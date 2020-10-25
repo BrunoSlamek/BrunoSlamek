@@ -13,5 +13,5 @@
 
 <img align="left" alt="PyCharm" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/PyCharmCore256.png" />
 
-<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
