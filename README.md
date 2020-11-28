@@ -35,7 +35,9 @@ Aspirante python :) <img align="left" alt="python" width="26px" src="https://cdn
   
   - Data analisys from crime in boston 2015 to 2018: https://bit.ly/33UlQwX
 
+### Portfólio web com Python e Django:
 
+  - Deploy no heroku: 
 
 <br />
 
