@@ -37,7 +37,7 @@ Aspirante python :) <img align="left" alt="python" width="26px" src="https://cdn
 
 ### Portfólio web com Python e Django:
 
-  - Deploy: 
+  - https://brunoslamek.github.io/portfolio_web/
 
 <br />
 
