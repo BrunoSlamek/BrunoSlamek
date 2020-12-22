@@ -35,7 +35,7 @@ Aspirante python :)
   
   - Data analisys from crime in boston 2015 to 2018: https://bit.ly/33UlQwX
 
-### Portfólio web com Python e Django:
+### Portfólio web:
 
   - https://brunoslamek.github.io/portfolio_web/
 
@@ -45,6 +45,4 @@ Aspirante python :)
 
 <img align="left" alt="Bruno Slamek Github Stats" src="https://github-readme-stats.vercel.app/api?username=brunoslamek&show_icons=true&hide_border=true" />
 
-<br />
-<br />
 <br />
