@@ -1,8 +1,7 @@
 ### Bruno Slamek 👋
 
 ---
-Aspirante python :)
-
+I am a student of Systems Analysis and Development, passionate about Back-end and curious about Front-end. Cloud computing enthusiast using Amazon Web Services, I like minimalism and coffee :)
 
 ### Contato 📭
 
