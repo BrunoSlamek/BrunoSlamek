@@ -36,7 +36,7 @@ I am a student of Systems Analysis and Development, passionate about Back-end an
 
 ### Portfólio web:
 
-  - https://brunoslamek.github.io/portfolio_web/
+  - https://brunoslamek.netlify.app/
 
 <br />
 
