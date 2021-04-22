@@ -3,14 +3,14 @@
 ---
 I am a student of Systems Analysis and Development, passionate about Back-end and curious about Front-end. Cloud computing enthusiast using Amazon Web Services, I like minimalism and coffee :)
 
-### Contato 📭
+### Contact 📭
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/bruno-slamek)
 
 
 <br />
 
-### Linguagens e Ferramentas 🔨🔧
+### Languages and tools 🔨🔧
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
@@ -28,13 +28,13 @@ I am a student of Systems Analysis and Development, passionate about Back-end an
 <br />
 <br />
 
-### Projetos DataScience 📈
+### DataScience 📈
 
   - Simple data analisys from netflix 2008 to 2019: https://bit.ly/3lDBvXQ
   
   - Data analisys from crime in boston 2015 to 2018: https://bit.ly/33UlQwX
 
-### Portfólio web:
+### Personal Portfolio:
 
   - https://brunoslamek.netlify.app/
 
