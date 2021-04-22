@@ -43,6 +43,7 @@ I am a student of Systems Analysis and Development, passionate about Back-end an
 ### Stats
 
 <img align="left" alt="Bruno Slamek Github Stats" src="https://github-readme-stats.vercel.app/api?username=brunoslamek&show_icons=true&hide_border=false" />
+<br />
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSlamek&layout=compact&theme=)
 
