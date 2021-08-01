@@ -1,4 +1,4 @@
-### Bruno Slamek 👋
+### Hi! 👋
 
 ---
 Junior Software Developer, solving bugs.
