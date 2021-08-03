@@ -1,7 +1,7 @@
 ### Hi! 👋
 
 ---
-Junior Software Developer, solving bugs.
+Junior Software Developer, solving bugs day and night
 
 ### Contact 📭
 
