@@ -1,6 +1,6 @@
 ### Hi! 👋
 
 ---
-Junior Software Developer, solving bugs day and night
+Junior Software Developer at IDC Brasil, solving bugs day and night.
 
 <hr/>
